@@ -6,6 +6,9 @@
 }
 html{
     scroll-behavior: smooth;
+} 
+body{
+    font-family: "open sans ,sans-serif ";
 }
 
 /*end gobal rules */
