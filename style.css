@@ -46,9 +46,7 @@ ul{
   }
 /*end gobal rules */
 /*star header*/
-header{
 
-} 
 header .container{
   display: flex;  
    justify-content: space-between;  
@@ -72,7 +70,11 @@ header nav{
     display:flex; 
     align-items: center; 
     justify-content: flex-end;
-} 
+}  
+header nav .toggle-menu{
+    color:white; 
+    font-size: 22px;
+}
 header nav ul {
     display: flex;
 } 
