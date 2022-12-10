@@ -55,6 +55,6 @@ header .container::after{
     height: 10px; 
     background-color: #a2a2a2;
     bottom: 0;
-    width: 100%;
+    width: calc(100%-30px );
 }
 /*end header*/
