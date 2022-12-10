@@ -50,6 +50,8 @@ header .container{
    position: relative;
 } 
 header .container::after{
-    content: "";
+    content: ""; 
+    position: absolute; 
+    
 }
 /*end header*/
