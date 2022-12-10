@@ -46,7 +46,12 @@ ul{
   }
 /*end gobal rules */
 /*star header*/
-
+header{
+    position: absolute;
+    left: 0;
+    width: 100%;
+    z-index: 2;
+}
 header .container{
   display: flex;  
    justify-content: space-between;  
