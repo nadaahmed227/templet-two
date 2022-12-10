@@ -92,4 +92,7 @@ header nav ul li a:hover{
     color:var(--main-color); 
     border-bottom: 1px solid var(--main-color);
 }
+header nav form{
+    
+}
 /*end header*/
