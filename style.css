@@ -82,7 +82,9 @@ header nav ul li a  {
     color: white; 
     text-decoration: none; 
     font-size: 14px; 
-    transition: 0.3s;
+    transition: 0.3s; 
+    position: relative;
+    z-index: 2;
 
 } 
 header nav ul li a.active 
