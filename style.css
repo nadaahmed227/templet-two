@@ -95,6 +95,7 @@ header nav ul li a:hover{
 header nav form{
  width: 40px;
  height: 30px;
-    
+    position: relative;
+    margin-left: 30px;
 }
 /*end header*/
