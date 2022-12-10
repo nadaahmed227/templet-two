@@ -1,3 +1,9 @@
+/*start variables */ 
+:root{
+    --main-color: #19c819;
+}
+/*end variables */
+
 /*star gobal rules */ 
 *{
     box-sizing: border-box; 
@@ -71,7 +77,7 @@ header nav ul {
     display: flex;
 } 
 header nav ul li a  { 
-    padding: 40px;
+    padding: 40px 10px ;
     display: block;
     color: white; 
     text-decoration: none; 
