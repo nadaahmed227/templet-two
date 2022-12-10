@@ -62,6 +62,7 @@ header .logo img{
     height: 40px;
 } 
 header nav{
-    flex: 1;
+    flex: 1; 
+    display:flex;
 }
 /*end header*/
