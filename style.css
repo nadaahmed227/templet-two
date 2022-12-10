@@ -59,6 +59,6 @@ header .container::after{
     left: 15px ;
 } 
 header .logo img{
-    
+    height: 40px;
 }
 /*end header*/
