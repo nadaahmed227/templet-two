@@ -45,6 +45,6 @@ header{
 } 
 header .container{
   display: flex;  
-    
+   justify-content: space-between; 
 }
 /*end header*/
