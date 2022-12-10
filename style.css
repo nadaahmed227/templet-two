@@ -46,6 +46,10 @@ header{
 header .container{
   display: flex;  
    justify-content: space-between;  
-   align-items: center;
+   align-items: center; 
+   position: relative;
+} 
+header .container::after{
+    content: "";
 }
 /*end header*/
