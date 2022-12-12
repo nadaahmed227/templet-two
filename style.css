@@ -203,6 +203,7 @@ background-color: rgb(0 0 0 / 60%);
     margin-right: 10px;
 } 
 .landing .bullets li.active{
-    background-color: var(--main-color);
+    background-color: var(--main-color); 
+    border-color: var(--main-color);
 }
 /*end landing*/
