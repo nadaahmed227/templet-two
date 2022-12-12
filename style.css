@@ -192,6 +192,7 @@ background-color: rgb(0 0 0 / 60%);
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+    bottom: 30px;
 
 } 
 /*end landing*/
