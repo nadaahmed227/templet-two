@@ -274,5 +274,8 @@
   }  
   .services .srv-box {
     display: flex;
+  } 
+  .services .srv-box i{
+  
   }
    /*end  services */
