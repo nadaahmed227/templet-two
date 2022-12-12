@@ -56,6 +56,9 @@ ul{
     position: relative; 
     margin-bottom: 70px; 
     text-transform: uppercase;
+} 
+.main-heading h2::before{
+
 }
 /*end  compoentes*/ 
 /*star header*/ 
