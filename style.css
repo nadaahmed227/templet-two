@@ -58,7 +58,8 @@ ul{
     text-transform: uppercase;
 } 
 .main-heading h2::before{
-content: "";
+content: ""; 
+position: absolute;
 }
 /*end  compoentes*/ 
 /*star header*/ 
