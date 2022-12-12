@@ -183,6 +183,6 @@ background-color: rgb(0 0 0 / 60%);
     color: #ddd;
 } 
 .landing .landing .fa-angle-left{
-    
+    left: 30px;
 }
 /*end landing*/
