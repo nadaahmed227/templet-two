@@ -150,5 +150,8 @@ top: 0;
 left: 0; 
 width: 100%; 
 background-color: rgb(0 0 0 / 60%);
+} 
+.landing .text{
+    position:absolute ;
 }
 /*end landing*/
