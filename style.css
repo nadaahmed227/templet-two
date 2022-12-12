@@ -313,5 +313,6 @@
   padding-bottom: var(--section-padding); 
   height: 600px ;
   position: relative;
+  background-image: url("th.jpeg");
 }
 /*end Design */
