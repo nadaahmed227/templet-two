@@ -260,6 +260,7 @@
   /* End Landing */  
   /*start services */ 
   .services{
-    padding-top:100px; 
+    padding-top:100px;  
+    padding-bottom: 100px;
   }
    /*end  services */
