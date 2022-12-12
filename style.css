@@ -276,6 +276,6 @@
     display: flex;
   } 
   .services .srv-box i{
-  
+     margin-right: 50px ;
   }
    /*end  services */
