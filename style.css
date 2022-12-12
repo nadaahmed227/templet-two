@@ -145,6 +145,7 @@ header nav .form i {
     background-size: cover;
 } 
 .landing .overlay{
-    
+position: relative; 
+
 }
 /*end landing*/
