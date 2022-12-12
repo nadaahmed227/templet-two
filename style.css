@@ -59,7 +59,8 @@ ul{
 } 
 .main-heading h2::before{
 content: ""; 
-position: absolute;
+position: absolute; 
+left: 50%;
 }
 /*end  compoentes*/ 
 /*star header*/ 
