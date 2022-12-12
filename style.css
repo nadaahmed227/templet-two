@@ -320,6 +320,7 @@
 }
 .design::before{
   content: "";
-  position: absolute;
+  position: absolute; 
+  left:0; 
 }
 /*end Design */
