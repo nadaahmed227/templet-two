@@ -9,6 +9,7 @@
   /* Start Global Rules */ 
   *{
     -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
   }
   /* end Global Rules */
   html {
