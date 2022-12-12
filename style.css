@@ -269,7 +269,7 @@
   /* End Landing */  
   /*start services */ 
   .services{
-    padding-top:100px;  
+    padding-top:var(--section-padding);  
     padding-bottom: 100px;
   }
    /*end  services */
