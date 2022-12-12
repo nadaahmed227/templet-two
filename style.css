@@ -287,7 +287,9 @@
     margin-right: 50px;
   }
   @media (max-width:767px ){
-
+  }
+  .services .srv-box{ 
+    display: flex;
   }
   .services .srv-box h3 {
     margin-bottom: 30px;
