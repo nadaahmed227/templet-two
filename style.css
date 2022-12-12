@@ -62,7 +62,8 @@ content: "";
 position: absolute; 
 left: 50%;
 transform: translateX(-50%); 
-height: 2px ;
+height: 2px ; 
+background-color: #333;
 }
 /*end  compoentes*/ 
 /*star header*/ 
