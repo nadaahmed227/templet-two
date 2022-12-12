@@ -328,6 +328,7 @@
   background-color: rgb(0 0 0 / 60%);
 } 
 .design .image{
-  
+  position: relative
+  ;
 }
 /*end Design */
