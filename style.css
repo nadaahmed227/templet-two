@@ -94,7 +94,8 @@ header nav ul {
         display: none;
     }
     header nav .toggle-menu:hover +ul{
-        
+        display: flex;
+        flex-direction: column;
     }
 } 
 
