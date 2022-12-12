@@ -144,5 +144,7 @@ header nav .form i {
     background-image:url("landing.jpg"); 
     background-size: cover;
 } 
-
+.landing .overlay{
+    
+}
 /*end landing*/
