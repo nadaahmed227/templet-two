@@ -287,12 +287,16 @@
     margin-right: 50px;
   }
   @media (max-width:767px ){
-  }
+  
   .services .srv-box{ 
     display: flex;
     flex-direction: column;
     text-align: center;
+  }  
+  .services .srv-box i{
+    margin:  0 0 30px;
   }
+}
   .services .srv-box h3 {
     margin-bottom: 30px;
     color: var(--main-color);
