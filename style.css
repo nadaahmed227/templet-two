@@ -281,5 +281,8 @@
   .services .srv-box h3{
     margin-bottom: 30px; 
     color: var(--main-color);
+  } 
+  .services .srv-box p{
+    
   }
    /*end  services */
