@@ -337,7 +337,7 @@
   text-align: center ;
 }
 .design .image img{ 
-  
+  position: relative;
 
 }
 /*end Design */
