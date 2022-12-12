@@ -181,5 +181,8 @@ background-color: rgb(0 0 0 / 60%);
     top: 50%; 
     transform: translateY(-50%); 
     color: #ddd;
+} 
+.landing .landing .fa-angle-left{
+    
 }
 /*end landing*/
