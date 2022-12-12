@@ -66,6 +66,9 @@ height: 2px ;
 background-color: #333;
 bottom: -30px;
 width: 120px ;
+} 
+.main-heading h2::after{
+    
 }
 /*end  compoentes*/ 
 /*star header*/ 
