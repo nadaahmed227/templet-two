@@ -177,6 +177,6 @@ background-color: rgb(0 0 0 / 60%);
     line-height: 2;
 }
 .landing .change-background {
-    
+    position: absolute;
 }
 /*end landing*/
