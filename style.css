@@ -316,5 +316,6 @@
   background-image: url("th.jpeg"); 
   background-size: cover; 
   display: flex;
+  align-items: center;
 }
 /*end Design */
