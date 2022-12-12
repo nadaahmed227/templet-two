@@ -53,7 +53,8 @@ ul{
 .main-heading h2{
     font-weight: normal; 
     font-size: 40px ;
-    position: relative;
+    position: relative; 
+    margin-bottom: 70px;
 }
 /*end  compoentes*/ 
 /*star header*/ 
