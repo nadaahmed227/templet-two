@@ -198,5 +198,6 @@ background-color: rgb(0 0 0 / 60%);
 .landing .bullets li{
     width: 20px; 
     height: 20px;
+    border: 1px solid white;
 }
 /*end landing*/
