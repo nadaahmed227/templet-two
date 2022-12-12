@@ -54,7 +54,8 @@ ul{
     font-weight: normal; 
     font-size: 40px ;
     position: relative; 
-    margin-bottom: 70px;
+    margin-bottom: 70px; 
+    text-transform: uppercase;
 }
 /*end  compoentes*/ 
 /*star header*/ 
