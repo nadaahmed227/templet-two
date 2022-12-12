@@ -68,7 +68,7 @@ bottom: -30px;
 width: 120px ;
 } 
 .main-heading h2::after{
-    
+    content: "";
 }
 /*end  compoentes*/ 
 /*star header*/ 
