@@ -267,7 +267,13 @@
     border-color: var(--main-color);
   }
   /* End Landing */  
-  /*start services */ 
+  /*start services */  
+  @media(max-width:768){
+    .services .services-container{
+     display: grid;
+    }
+
+  }
   .services{
     padding-top:var(--section-padding);  
     padding-bottom:var(--section-padding);
