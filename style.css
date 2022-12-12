@@ -194,6 +194,8 @@ background-color: rgb(0 0 0 / 60%);
     transform: translateX(-50%);
     bottom: 30px; 
     display: flex;
-
-} 
+}  
+.landing .bullets li{
+    
+}
 /*end landing*/
