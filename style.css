@@ -173,7 +173,7 @@ background-color: rgb(0 0 0 / 60%);
     margin-bottom: 20px ;
 } 
 .landing .text .content p{
-    
+    font-size: 14px;
 }
 
 /*end landing*/
