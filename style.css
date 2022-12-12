@@ -290,6 +290,7 @@
   }
   .services .srv-box{ 
     display: flex;
+    flex-direction: column;
   }
   .services .srv-box h3 {
     margin-bottom: 30px;
