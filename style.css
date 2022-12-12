@@ -271,5 +271,8 @@
   .services{
     padding-top:var(--section-padding);  
     padding-bottom:var(--section-padding);
+  }  
+  .services .srv-box {
+    
   }
    /*end  services */
