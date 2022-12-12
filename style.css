@@ -71,7 +71,8 @@ width: 120px ;
     content: ""; 
     position: absolute; 
     left: 50%; 
-    transform: translateX(-50%);
+    transform: translateX(-50%); 
+    width: 14px ;
 
 }
 /*end  compoentes*/ 
