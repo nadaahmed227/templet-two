@@ -81,7 +81,8 @@ width: 120px ;
 } 
 .main-heading p{
     width: 550px; 
-    margin: 0 auto 100px;
+    margin: 0 auto 100px; 
+    max-width: 100%;
 }
 /*end  compoentes*/ 
 /*star header*/ 
