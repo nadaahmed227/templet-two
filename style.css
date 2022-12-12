@@ -314,6 +314,7 @@
   height: 600px ;
   position: relative;
   background-image: url("th.jpeg"); 
-  background-size: cover;
+  background-size: cover; 
+  display: flex;
 }
 /*end Design */
