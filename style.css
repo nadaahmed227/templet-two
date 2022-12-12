@@ -291,6 +291,7 @@
   .services .srv-box{ 
     display: flex;
     flex-direction: column;
+    text-align: center;
   }
   .services .srv-box h3 {
     margin-bottom: 30px;
