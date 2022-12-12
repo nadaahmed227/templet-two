@@ -313,9 +313,12 @@
   padding-bottom: var(--section-padding); 
   height: 600px ;
   position: relative;
-  background-image: url("th.jpeg"); 
+  background-image: url("OIP\ \(1\).jpeg"); 
   background-size: cover; 
   display: flex;
-  align-items: center;
+  align-items: center; 
+}
+.design::before{
+  
 }
 /*end Design */
