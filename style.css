@@ -178,6 +178,7 @@ background-color: rgb(0 0 0 / 60%);
 }
 .landing .change-background {
     position: absolute; 
-    top: 50%;
+    top: 50%; 
+    transform: translateY(-50%);
 }
 /*end landing*/
