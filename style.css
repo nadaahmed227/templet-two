@@ -338,6 +338,6 @@
 }
 .design .image img{ 
   position: relative;
-
+  bottom:-150px;
 }
 /*end Design */
