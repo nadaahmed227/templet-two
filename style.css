@@ -391,8 +391,8 @@
  margin-top: 60px;
 } 
 .Portfolio .image-container .box{
-
 }  
+@media(min-width:768px)
 .Portfolio .image-container.box img{
     max-width: 100%;
 } 
