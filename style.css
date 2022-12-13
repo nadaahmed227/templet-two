@@ -426,7 +426,7 @@ transform: rotate(3deg) scale(1.1);
  bottom: -100%;
 } 
 .Portfolio .image-container .box .caption h4{
-  
+  font-weight: normal;
 }
 
 
