@@ -390,7 +390,8 @@
  flex-wrap: wrap; 
  margin-top: 60px;
 } 
-.Portfolio .image-container .box{
+.Portfolio .image-container .box{ 
+  position: relative;
 }  
 @media(min-width:768px){
   .Portfolio .image-container .box{
@@ -407,7 +408,7 @@
     max-width: 100%;
 }  
 .Portfolio .image-container.box .caption {
-  
+
 }
 
 
