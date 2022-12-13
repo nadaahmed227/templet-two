@@ -455,4 +455,5 @@
 .video .text{
   width: 100%;
   position: absolute;
+  top: 50%;
 }
