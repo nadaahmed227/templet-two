@@ -396,10 +396,10 @@
 }  
 
 .Portfolio .image-container .box:hover .caption{
-
+bottom: 0;
 } 
 .Portfolio .image-container .box:hover img{
-  
+
 }
 
 @media(min-width:768px){
