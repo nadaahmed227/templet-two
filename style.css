@@ -432,5 +432,7 @@ transform: rotate(3deg) scale(1.1);
 .Portfolio .image-container .box .caption p{
   color: var(--main-color);
 }
-
+.Portfolio .more{
+  
+}
 
