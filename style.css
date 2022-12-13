@@ -462,5 +462,6 @@
   text-align: center;
 } 
 .video .text h2{
-  margin: 0 0 30px ;
+  margin: 0 0 30px ; 
+  text-transform: uppercase;
 }
