@@ -435,6 +435,7 @@ transform: rotate(3deg) scale(1.1);
 .Portfolio .more{
   background-color: var(--main-color);
   color: white; 
-  padding-inline-start: 15px;
+  padding-inline-start: 15px 20px;
+  display: block;
 }
 
