@@ -347,6 +347,8 @@
   background-color: var(--transparent-color);
 }
 .design .text h2{
-  font-weight: normal
+  font-weight: normal; 
+  text-decoration:uppercase;
+  
 }
 /*end Design */
