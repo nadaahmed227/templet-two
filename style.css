@@ -392,7 +392,12 @@
 } 
 .Portfolio .image-container .box{
 }  
-@media(min-width:768px)
+@media(min-width:768px){
+  .Portfolio .image-container .box{
+    flex-basis: 50%;
+  }
+
+}
 .Portfolio .image-container.box img{
     max-width: 100%;
 } 
