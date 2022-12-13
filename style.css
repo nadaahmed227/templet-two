@@ -436,6 +436,7 @@ transform: rotate(3deg) scale(1.1);
   background-color: var(--main-color);
   color: white; 
   padding-inline-start: 15px 20px;
-  display: block;
+  display: block; 
+  width: fit-content;
 }
 
