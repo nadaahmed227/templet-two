@@ -386,7 +386,8 @@
   color: white;
 } 
 .Portfolio .image-container{
- display: flex;
+ display: flex; 
+ flex-wrap: wrap;
 } 
 .Portfolio .image-container .box{
 
