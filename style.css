@@ -373,8 +373,11 @@
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
 } 
-.Portfolio  .shuffle{
+.Portfolio .shuffle{
   display: flex; 
   justify-content: center;
 
+} 
+.Portfolio .shuffle li {
+  
 }
