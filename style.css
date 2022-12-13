@@ -336,6 +336,9 @@
 }  
 .design .image{
   text-align: center ;
+} 
+@media (max-width:767){
+  
 }
 .design .image img{ 
   position: relative;
