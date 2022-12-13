@@ -370,5 +370,5 @@
 /*end Design */ 
 /*start portofoil */
 .Portfolio{
-  
+  padding-top: var(--section-padding);
 }
