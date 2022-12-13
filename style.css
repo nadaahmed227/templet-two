@@ -433,6 +433,6 @@ transform: rotate(3deg) scale(1.1);
   color: var(--main-color);
 }
 .Portfolio .more{
-  
+  background-color: var(--main-color);
 }
 
