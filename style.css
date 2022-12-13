@@ -443,4 +443,5 @@
 /* Start Video */
 .video{
   position: relative;
+  left: 0;
 }
