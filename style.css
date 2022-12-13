@@ -480,4 +480,5 @@ text-transform: uppercase;
 /* Start About */
 .about{
 padding-top: var(--transparent-color);
+overflow: hidden;
 }
