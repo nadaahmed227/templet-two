@@ -338,7 +338,9 @@
   text-align: center ;
 } 
 @media (max-width:767){
-  
+  .design .image{
+    display: none;
+  }
 }
 .design .image img{ 
   position: relative;
