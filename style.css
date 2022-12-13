@@ -485,4 +485,5 @@ text-align: center;
 }
 .about img{
   position: relative;
+  bottom: -120px;
 }
