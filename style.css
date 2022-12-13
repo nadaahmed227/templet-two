@@ -394,6 +394,10 @@
   overflow: hidden;
   position: relative;
 }  
+
+.Portfolio .image-container .box:hover .caption{
+
+}
 @media(min-width:768px){
   .Portfolio .image-container .box{
     flex-basis: 50%;
@@ -407,6 +411,7 @@
 }
 .Portfolio .image-container.box img{
     max-width: 100%;
+    transition: 0.3s;
 }  
 .Portfolio .image-container.box .caption {
  position: absolute;
