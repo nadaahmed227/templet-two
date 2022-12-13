@@ -397,7 +397,11 @@
 
 .Portfolio .image-container .box:hover .caption{
 
+} 
+.Portfolio .image-container .box:hover img{
+  
 }
+
 @media(min-width:768px){
   .Portfolio .image-container .box{
     flex-basis: 50%;
