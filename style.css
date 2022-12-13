@@ -409,6 +409,7 @@
 }  
 .Portfolio .image-container.box .caption {
  position: absolute;
+ left: 0;
 }
 
 
