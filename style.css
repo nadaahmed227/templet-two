@@ -424,6 +424,9 @@ transform: rotate(3deg) scale(1.1);
  width: 100%;
  transition: 0.3s; 
  bottom: -100%;
+} 
+.Portfolio .image-container .box .caption h4{
+  
 }
 
 
