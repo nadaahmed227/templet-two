@@ -397,6 +397,11 @@
     flex-basis: 50%;
   }
 
+}@media(min-width:1199x){
+  .Portfolio .image-container .box{
+    flex-basis: 50%;
+  }
+
 }
 .Portfolio .image-container.box img{
     max-width: 100%;
