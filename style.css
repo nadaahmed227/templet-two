@@ -351,7 +351,10 @@
   text-decoration:uppercase;
   margin-bottom: 40px;
 } 
-.design .text lu i{
+.design .text ul i{
   padding: 15px 0;
+} 
+.design .text ul i::before{
+  
 }
 /*end Design */
