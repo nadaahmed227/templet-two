@@ -387,7 +387,8 @@
 } 
 .Portfolio .image-container{
  display: flex; 
- flex-wrap: wrap;
+ flex-wrap: wrap; 
+ margin-top: 60px;
 } 
 .Portfolio .image-container .box{
 
