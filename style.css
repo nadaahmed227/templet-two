@@ -355,6 +355,6 @@
   padding: 15px 0;
 } 
 .design .text ul i::before{
-  
+  font-family: "font Awesome 5 free" ;
 }
 /*end Design */
