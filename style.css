@@ -374,6 +374,7 @@
   padding-bottom: var(--section-padding);
 } 
 .Portfolio  .shuffle{
-  display: flex;
+  display: flex; 
+  justify-content: center;
 
 }
