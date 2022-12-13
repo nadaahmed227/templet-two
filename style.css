@@ -479,5 +479,5 @@ text-transform: uppercase;
 /* End Video */
 /* Start About */
 .about{
-
+padding-top: var(--transparent-color);
 }
