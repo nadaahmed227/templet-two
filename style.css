@@ -405,6 +405,10 @@
 }
 .Portfolio .image-container.box img{
     max-width: 100%;
-} 
+}  
+.Portfolio .image-container.box .caption {
+  
+}
+
 
 
