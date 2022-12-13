@@ -399,7 +399,7 @@
 
 }@media(min-width:1199x){
   .Portfolio .image-container .box{
-    flex-basis: 50%;
+    flex-basis: 25%;
   }
 
 }
