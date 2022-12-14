@@ -544,4 +544,5 @@ flex-wrap: wrap;
     height: 40px;
     display: flex;
     background-color: black;
+    justify-content: center;
   }
