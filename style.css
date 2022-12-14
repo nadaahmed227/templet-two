@@ -575,6 +575,6 @@ flex-wrap: wrap;
   margin-bottom: 60px;
  } 
  .our-skills .testimonials .content {
-  
+  display: flex;
  }
 
