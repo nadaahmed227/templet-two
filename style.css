@@ -602,6 +602,7 @@ flex-wrap: wrap;
  } 
  .our-skills .testimonials .bullets li {
   width: 14px;
-  height: 14px;
+  height: 14px; 
+  border: 1px solid #aaa;
  }
 
