@@ -478,15 +478,15 @@ text-transform: uppercase;
 }  
 /* End Video */
 /* Start About */
-.about{
-padding-top: var(--transparent-color);
-overflow: hidden;
-text-align: center;
+.about {
+  padding-top: var(--section-padding);
+  overflow: hidden;
+  text-align: center;
 }
-.about img{
+.about img {
   position: relative;
   bottom: -120px;
-  margin-top: -120px ;
+  margin-top: -120px;
   max-width: 100%;
 }
 @media (max-width: 767px) {
@@ -496,3 +496,7 @@ text-align: center;
   }
 }
 /* End About */
+/* Start Stats */
+.stats{
+  
+}
