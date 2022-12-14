@@ -576,6 +576,7 @@ flex-wrap: wrap;
  } 
  .our-skills .testimonials .content {
   display: flex; 
-  align-items: center;
+  align-items: center; 
+  margin-bottom: 30px;
  }
 
