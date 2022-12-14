@@ -516,4 +516,6 @@ text-transform: uppercase;
 }
 .stats .container{
   position: relative;
+display: flex;
+
 }
