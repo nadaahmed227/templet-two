@@ -606,5 +606,9 @@ flex-wrap: wrap;
   border: 1px solid #aaa; 
   border-radius: 50%;
   margin-right: 10px;
- }
+ } 
+ .our-skills .testimonials .bullets li.active {
+  background-color: var(--main-color);
+  border-color: var(--main-color);
+}
 
