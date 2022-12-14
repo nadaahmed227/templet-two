@@ -508,4 +508,6 @@ text-transform: uppercase;
 .stats::before{
   content: "";
   position: absolute;
+  top:0; 
+  
 }
