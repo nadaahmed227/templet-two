@@ -616,6 +616,7 @@ flex-wrap: wrap;
 } 
 .our-skills .skills .prog-holder h4 {
   margin-bottom: 15px; 
-  font-weight: normal;
+  font-weight: normal; 
+  text-transform: uppercase;
 }
 
