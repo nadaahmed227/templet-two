@@ -518,4 +518,6 @@ text-transform: uppercase;
   position: relative;
 display: flex;
 
+flex-wrap: wrap;
+
 }
