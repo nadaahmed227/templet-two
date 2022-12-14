@@ -534,8 +534,11 @@ flex-wrap: wrap;
     flex-basis: 50%;
   }
 }
-@media(min-width:991px){
+@media(min-width:992px){
   .stats .container .box{
     flex-basis: 25%;
   }
-}
+} 
+  .stats .container .box{
+    
+  }
