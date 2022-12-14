@@ -581,6 +581,7 @@ flex-wrap: wrap;
  }
  .our-skills .testimonials .content img {
   width: 100px; 
-  border-radius: 50%;
+  border-radius: 50%; 
+  margin-right: 50px;
  }
 
