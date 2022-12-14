@@ -587,5 +587,8 @@ flex-wrap: wrap;
  .our-skills .testimonials .text {
   line-height: 1.8; 
   border-bottom: 1px solid #ccc;
+ } 
+ .our-skills .testimonials .text p {
+  
  }
 
