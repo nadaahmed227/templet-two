@@ -550,6 +550,7 @@ flex-wrap: wrap;
     margin: 0 auto 30px ;
   } 
   .stats .container .box .number{
-    fon 
+    font-size: 50px;
+    font-weight: bold;
   }
 
