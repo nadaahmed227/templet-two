@@ -644,7 +644,8 @@ flex-wrap: wrap;
 .our-skills .skills .prog-holder .prog span::after {
   content: ""; 
   position: absolute; 
-  border-style: solid;
+  border-style: solid; 
+  border-width: 8px;
 
 }
 
