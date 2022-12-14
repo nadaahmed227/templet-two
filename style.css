@@ -521,6 +521,9 @@ flex-wrap: wrap;
 } 
 .stats .container .box{
   color:white;
-  padding: 50%;
+  padding: 50px;
   background-color: var(--main-color);
+}
+@media(max-width:767px){
+  
 }
