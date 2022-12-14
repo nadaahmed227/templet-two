@@ -504,5 +504,7 @@ text-transform: uppercase;
   background-image: url("th.jpeg");
   background-size: cover;
   position: relative;
-
+}
+.stats::before{
+  
 }
