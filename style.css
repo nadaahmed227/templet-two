@@ -585,6 +585,7 @@ flex-wrap: wrap;
   margin-right: 50px;
  }
  .our-skills .testimonials .text {
-  line-height: 1.8;
+  line-height: 1.8; 
+  border-bottom: 1px solid #ccc;
  }
 
