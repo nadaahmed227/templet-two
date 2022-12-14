@@ -566,6 +566,9 @@ flex-wrap: wrap;
   .our-skills .container > div > h3 {
     margin: 0 0 30px;  
     font-weight: normal; 
-    text-transform: uppercase;
-  }
+    text-transform: uppercase; 
+ }
+ .our-skills .container > div > p {
+  
+ }
 
