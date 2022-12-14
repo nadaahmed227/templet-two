@@ -539,6 +539,6 @@ flex-wrap: wrap;
     flex-basis: 25%;
   }
 } 
-  .stats .container .box{
-    
+  .stats .container .box i{
+    width: 40px ;
   }
