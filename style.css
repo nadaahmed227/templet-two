@@ -633,5 +633,6 @@ flex-wrap: wrap;
   content: attr(data-progress);
   position: absolute; 
   background-color: black;
+  color: white;
 }
 
