@@ -506,5 +506,6 @@ text-transform: uppercase;
   position: relative;
 }
 .stats::before{
+  content: "";
   
 }
