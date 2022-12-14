@@ -520,5 +520,6 @@ display: flex;
 flex-wrap: wrap;
 } 
 .stats .container .box{
-  color:white; 
+  color:white;
+  padding: 50%;
 }
