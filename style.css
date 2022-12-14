@@ -571,6 +571,7 @@ flex-wrap: wrap;
  .our-skills .container > div > p {
   color: #777; 
   line-height: 2; 
-  text-align: center;
+  text-align: center; 
+  margin-bottom: 60px;
  }
 
