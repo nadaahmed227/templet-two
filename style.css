@@ -501,4 +501,7 @@ text-transform: uppercase;
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   text-align: center;
+  background-image: url("th.jpeg");
+ 
+
 }
