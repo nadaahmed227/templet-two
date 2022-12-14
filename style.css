@@ -522,4 +522,5 @@ flex-wrap: wrap;
 .stats .container .box{
   color:white;
   padding: 50%;
+  background-color: var(--main-color);
 }
