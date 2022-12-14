@@ -590,6 +590,7 @@ flex-wrap: wrap;
  } 
  .our-skills .testimonials .text p {
   color: #777; 
-  text-align: right;
+  text-align: right; 
+  font-size: 14px;
  }
 
