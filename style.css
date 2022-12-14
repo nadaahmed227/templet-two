@@ -500,4 +500,5 @@ text-transform: uppercase;
 .stats{
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
+  text-align: center;
 }
