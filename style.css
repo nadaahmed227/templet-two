@@ -618,5 +618,9 @@ flex-wrap: wrap;
   margin-bottom: 15px; 
   font-weight: normal; 
   text-transform: uppercase;
+} 
+.our-skills .skills .prog-holder .prog {
+  background-color: #dedadc;
+  height: 30px;
 }
 
