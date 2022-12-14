@@ -525,5 +525,7 @@ flex-wrap: wrap;
   background-color: var(--main-color);
 }
 @media(max-width:767px){
-  
+  .stats .container .box{
+    flex-basis: 100%;
+  }
 }
