@@ -569,6 +569,7 @@ flex-wrap: wrap;
     text-transform: uppercase; 
  }
  .our-skills .container > div > p {
-  color: #777;
+  color: #777; 
+  line-height: 2;
  }
 
