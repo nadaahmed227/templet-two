@@ -559,6 +559,6 @@ flex-wrap: wrap;
   } 
   /* Start Skills */
   .our-skills {
-    
+    display: flex;
   }
 
