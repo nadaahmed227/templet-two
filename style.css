@@ -503,5 +503,6 @@ text-transform: uppercase;
   text-align: center;
   background-image: url("th.jpeg");
   background-size: cover;
+  position: relative;
 
 }
