@@ -640,5 +640,8 @@ flex-wrap: wrap;
   width: 40px; 
   text-align: center;
   border-radius: 4px;
+} 
+.our-skills .skills .prog-holder .prog span::after {
+  
 }
 
