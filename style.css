@@ -517,7 +517,8 @@ text-transform: uppercase;
 .stats .container{
   position: relative;
 display: flex;
-
 flex-wrap: wrap;
-
+} 
+.stats .container .box{
+  
 }
