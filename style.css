@@ -783,5 +783,6 @@ flex-wrap: wrap;
 /* End Pricing */
 /* Start Subscribe */
 .subscribe {
-  
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
 }
