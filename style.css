@@ -676,6 +676,6 @@ flex-wrap: wrap;
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   background-image: url("quote.jpeg");
-  
+  background-size: cover;
 }
 
