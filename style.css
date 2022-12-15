@@ -920,5 +920,10 @@ flex-wrap: wrap;
 .contact .content .info address {
   color: #777;
   line-height: 2;
-} 
+}  
+@media (max-width: 767px) {
+  .contact .content .info address {
+    margin-bottom: 40px;
+  }
+}
 /* End Contact */
