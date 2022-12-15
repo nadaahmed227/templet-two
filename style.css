@@ -803,4 +803,7 @@ flex-wrap: wrap;
   position: relative;
   display: flex;
   align-items: center;
+} 
+.subscribe form {
+
 }
