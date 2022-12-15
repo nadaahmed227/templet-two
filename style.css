@@ -900,4 +900,5 @@ flex-wrap: wrap;
 }
 .contact .content .info .phone {
   display: block;
+  color: #777;
 }
