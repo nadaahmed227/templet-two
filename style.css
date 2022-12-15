@@ -699,3 +699,8 @@ flex-wrap: wrap;
   display: block;
 }
 /* End Quote */
+/* Start Pricing */
+.pricing {
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+}
