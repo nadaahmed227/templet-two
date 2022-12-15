@@ -884,4 +884,6 @@ flex-wrap: wrap;
   color: white;
   padding: 20px;
   border: none;
+  display: flex;
+  margin-left: auto;
 }
