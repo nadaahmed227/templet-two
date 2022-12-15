@@ -936,4 +936,7 @@ flex-wrap: wrap;
   position: relative; 
   color: white; 
   text-align: center;
+} 
+.footer::before {
+  
 }
