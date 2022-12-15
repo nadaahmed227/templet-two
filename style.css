@@ -720,4 +720,6 @@ flex-wrap: wrap;
 }
 .pricing .plans .plan .head h3 {
   font-weight: normal;
+  margin-bottom: 20px;
+  text-transform: uppercase;
 }
