@@ -873,3 +873,6 @@ flex-wrap: wrap;
   margin-bottom: 30px;
   width: 100%;
 }
+.contact .content form .main-input:focus {
+  outline: none;
+}
