@@ -692,5 +692,8 @@ flex-wrap: wrap;
 }
 .quote .container {
   position: relative;
+} 
+.quote q {
+  
 }
 
