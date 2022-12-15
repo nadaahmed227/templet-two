@@ -800,5 +800,7 @@ flex-wrap: wrap;
   background-color: rgb(0 0 0 / 50%);
 }
 .subscribe .container {
-  
+  position: relative;
+  display: flex;
+  align-items: center;
 }
