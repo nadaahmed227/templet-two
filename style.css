@@ -907,5 +907,6 @@ flex-wrap: wrap;
   margin-top: 90px;
 }
 .contact .content .info address {
- 
+  color: #777;
+  line-height: 2;
 }
