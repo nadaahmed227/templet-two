@@ -933,5 +933,6 @@ flex-wrap: wrap;
   padding-bottom: calc(var(--section-padding) / 2);
   background-image: url("footer.jpeg");
   background-size: cover;
-  position: relative;
+  position: relative; 
+  color: white;
 }
