@@ -953,5 +953,5 @@ flex-wrap: wrap;
   margin-bottom: 20px;
 }
 .footer p:not(.copyright) {
-  
+  text-transform: uppercase;
 }
