@@ -934,5 +934,6 @@ flex-wrap: wrap;
   background-image: url("footer.jpeg");
   background-size: cover;
   position: relative; 
-  color: white;
+  color: white; 
+  text-align: center;
 }
