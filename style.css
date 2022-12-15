@@ -860,5 +860,6 @@ flex-wrap: wrap;
   padding-bottom: var(--section-padding);
 } 
 .contact .content {
-
+  display: flex;
+  justify-content: space-between;
 }
