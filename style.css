@@ -775,4 +775,6 @@ flex-wrap: wrap;
   display: block;
   width: fit-content;
   margin: 20px auto;
+  background-color: var(--main-color);
+  color: white;
 }
