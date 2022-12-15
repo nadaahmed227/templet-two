@@ -804,6 +804,11 @@ flex-wrap: wrap;
   display: flex;
   align-items: center;
 } 
+@media (max-width: 991px) {
+  .subscribe .container {
+    flex-direction: column;
+  }
+}
 .subscribe form {
   display: flex;
   position: relative;
@@ -844,3 +849,4 @@ flex-wrap: wrap;
   line-height: 2;
   margin-left: 50px;
 }
+/* End Subscribe */
