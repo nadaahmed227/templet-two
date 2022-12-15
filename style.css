@@ -805,5 +805,8 @@ flex-wrap: wrap;
   align-items: center;
 } 
 .subscribe form {
-
+  display: flex;
+  position: relative;
+  width: 500px;
+  max-width: 100%;
 }
