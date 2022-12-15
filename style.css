@@ -952,3 +952,6 @@ flex-wrap: wrap;
 .footer img {
   margin-bottom: 20px;
 }
+.footer p:not(.copyright) {
+  
+}
