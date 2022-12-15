@@ -678,5 +678,6 @@ flex-wrap: wrap;
   background-image: url("quote.jpeg");
   background-size: cover;
   position: relative;
+  text-align: center;
 }
 
