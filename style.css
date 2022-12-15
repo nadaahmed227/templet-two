@@ -954,4 +954,7 @@ flex-wrap: wrap;
 }
 .footer p:not(.copyright) {
   text-transform: uppercase;
+  padding: 20px;
+
+
 }
