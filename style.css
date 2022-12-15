@@ -675,5 +675,6 @@ flex-wrap: wrap;
 .quote {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
+
 }
 
