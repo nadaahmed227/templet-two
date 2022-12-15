@@ -749,5 +749,7 @@ flex-wrap: wrap;
   position: relative;
 }
 .pricing .plans .plan ul li:not(:last-child)::after {
-  
+  content: "";
+  width: 140px;
+  height: 1px;
 }
