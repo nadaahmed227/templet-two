@@ -682,6 +682,7 @@ flex-wrap: wrap;
   color: white;
 }
 .quote::before {
-  
+  content: "";
+  position: absolute;
 }
 
