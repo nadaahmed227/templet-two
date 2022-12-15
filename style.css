@@ -890,5 +890,5 @@ flex-wrap: wrap;
   cursor: pointer;
 } 
 .contact .content .info {
-
+  flex-basis: 25%;
 }
