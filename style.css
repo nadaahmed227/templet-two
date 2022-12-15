@@ -787,4 +787,6 @@ flex-wrap: wrap;
   padding-bottom: var(--section-padding);
   background-image: url("subscribe.jpeg"); 
   background-size: cover;
+  position: relative;
+  color: white;
 }
