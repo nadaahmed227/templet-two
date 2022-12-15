@@ -932,5 +932,5 @@ flex-wrap: wrap;
   padding-top: calc(var(--section-padding) / 2);
   padding-bottom: calc(var(--section-padding) / 2);
   background-image: url("footer.jpeg");
-  
+  background-size: cover;
 }
