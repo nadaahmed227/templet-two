@@ -816,3 +816,6 @@ flex-wrap: wrap;
   transform: translateY(-50%);
   left: 25px;
 }
+.subscribe form input[type="email"] {
+  
+}
