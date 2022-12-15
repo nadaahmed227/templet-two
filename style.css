@@ -938,5 +938,6 @@ flex-wrap: wrap;
   text-align: center;
 } 
 .footer::before {
-  
+  content: "";
+  position: absolute;
 }
