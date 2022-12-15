@@ -759,5 +759,6 @@ flex-wrap: wrap;
   bottom: 0;
 }
 .pricing .plans .plan .foot a {
-  
+  display: block;
+  padding: 20px 20px;
 }
