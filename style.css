@@ -681,4 +681,7 @@ flex-wrap: wrap;
   text-align: center;  
   color: white;
 }
+.quote::before {
+  
+}
 
