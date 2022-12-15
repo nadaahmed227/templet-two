@@ -694,6 +694,5 @@ flex-wrap: wrap;
   position: relative;
 } 
 .quote q {
-  
+  font-size: 30px;
 }
-
