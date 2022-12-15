@@ -947,5 +947,5 @@ flex-wrap: wrap;
   background-color: rgb(0 0 0 / 70%);
 } 
 .footer .container {
-  
+  position: relative;
 }
